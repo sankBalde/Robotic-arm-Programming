@@ -1,0 +1,8 @@
+A model from [LINTO project](https://doc.linto.ai/#/services/linstt) with VOSK LM
+
+Licensed under AGPL
+
+WER on common voice and our test set
+
+%WER 16.25 [ 1552 / 9550, 200 ins, 235 del, 1117 sub ] exp/chain/tdnn/decode_test_cv_small_rescore/wer_11_1.0
+%WER 24.36 [ 18064 / 74145, 3309 ins, 5132 del, 9623 sub ] exp/chain/tdnn/decode_test_reseg_rescore/wer_11_0.0
